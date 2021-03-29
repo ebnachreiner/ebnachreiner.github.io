@@ -1,0 +1,43 @@
+body {
+	background-color:black;
+}
+
+nav {
+	margin:50px;
+	font-family: Copperplate, sans-serif;
+	color:white;
+}
+
+table {
+	margin:50px;
+	font-family: "Georgia", serif;
+	color:white;
+}
+
+h1 {
+	margin:50px;
+	font-family: Copperplate, sans-serif;
+	color:white;
+}
+
+h2 {
+	margin:50px;
+	font-family: "Georgia", serif;
+	color:white;
+}
+
+ul {
+	margin:50px;
+	font-family: "Georgia", serif;
+	color:white;
+}
+
+p {
+	margin:50px;
+	font-family: "Georgia", serif;
+	color:white;
+}
+
+img {
+	padding:200px;
+}
